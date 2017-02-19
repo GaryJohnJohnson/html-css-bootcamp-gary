@@ -1,0 +1,4 @@
+/*that period in the front of (happiness) it says look for that class in the html and apply that rule set. that formating is going to be applied to any tag with that class attribute*/
+
+
+p.happiness {color: #4b41ff;font-size: 100px;font-style: italic; margin-left: 20px;}

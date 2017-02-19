@@ -1,0 +1,22 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red
+}
+
+img {
+    border: 40px groove aliceblue;
+}
+
+.dogtwo {
+    border: 40px inset #ff9f40;
+}
+
+.dogone {
+    border: 40px ridge pink;
+}
+
+.dogthree {
+    border: 40px doublee #ff2f38;
+}
+
